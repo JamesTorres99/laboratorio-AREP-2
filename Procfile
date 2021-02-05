@@ -1,0 +1,1 @@
+web: java -cp target/classe:target/dependency/* edu.escuelaing.arep.SparkWebApp
