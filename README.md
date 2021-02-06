@@ -16,7 +16,6 @@
 - James Torres
 
 ## Use Maven and GITHUB.
->>>>>>> 5cda1e98ef15e0519c4fb7531de749bb0f5cc750
 
 Escriba un programa para calcular la desviación estándar y media de un conjunto de n números reales.
 Su programa lee los n números reales de un archivo.
