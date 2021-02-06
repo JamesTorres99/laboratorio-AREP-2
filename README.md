@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # *AREP - Laboratorio 2*
 # INTRODUCTION TO COMPUTER SYSTEM DESIGN
 
@@ -7,7 +7,7 @@
 - James Alexander Torres
 
 ## Use Maven, HEROKU, GIT, Spark and GITHUB.
-=======
+
 # *AREP - Laboratorio 1*
 # INTRODUCTION TO COMPLEX SYSTEMS, JAVA, MVN, AND GIT
 
