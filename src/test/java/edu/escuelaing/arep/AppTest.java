@@ -52,8 +52,8 @@ public class AppTest
 	@Test
     public void testriguroso() throws Exception
     {	
-    	lista=main.leer("resources\\Table_tests\\test1.txt");
-    	lista2=main.leer("resources\\Table_tests\\test2.txt");
+    	lista=main.leer("resources/Table_tests/test1.txt");
+    	lista2=main.leer("resources/Table_tests/test2.txt");
     	resultadomean1 = 115.83;
     	resultadomean2 = 30.68;
     	resultadodev1 = 84.51;
@@ -71,8 +71,8 @@ public class AppTest
 
     	Assert.assertEquals(resultadodev2, resultadodev2cal, 0.0);
     	
-    	lista=main.leer("resources\\Table_tests\\test3.txt");
-    	lista2=main.leer("resources\\Table_tests\\test4.txt");
+    	lista=main.leer("resources/Table_tests/test3.txt");
+    	lista2=main.leer("resources/Table_tests/test4.txt");
     	resultadomean1 = 64.13;
     	resultadomean2 = 51.82;
     	resultadodev1 = 70.73;
