@@ -7,6 +7,11 @@
 
 ## Use Maven, HEROKU, GIT, Spark and GITHUB.
 
+[![CircleCI](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-2.svg?style=svg)](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-2)
+
+## Despliegue 
+[Enlace Heroku](https://protected-spire-40085.herokuapp.com/hello)
+
 Escriba un programa para calcular la desviación estándar y media de un conjunto de n números reales.
 Su programa lee los n números reales de un archivo.
 
