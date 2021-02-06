@@ -6,12 +6,11 @@
 - James Alexander Torres
 
 ## Use Maven, HEROKU, GIT, Spark and GITHUB.
-
-[![CircleCI](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-2.svg?style=svg)](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-2)
-
 ## Despliegue 
+[![CircleCI](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-2.svg?style=svg)](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-2)
 [Enlace Heroku](https://protected-spire-40085.herokuapp.com/hello)
 
+## Enunciado
 Escriba un programa para calcular la desviación estándar y media de un conjunto de n números reales.
 Su programa lee los n números reales de un archivo.
 
@@ -91,6 +90,8 @@ mvn javadoc:javadoc
 ![](resources/3.PNG)
 <br></br>
 
+## Despliegue 
+![](resources/12.PNG)
 ## REFERENCIAS
 
 - <https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=589:interface-iterable-y-metodo-iterator-api-java-recorrer-colecciones-ejercicio-y-ejemplo-resuelto-cu00915c&catid=58&Itemid=180#:~:text=La%20interface%20Iterator%20(del%20paquete,iterador%20tiene%20un%20siguiente%20elemento.>
