@@ -90,12 +90,7 @@ public class SparkWebApp {
 			
 			return paginaFinal;});
 	}
-<<<<<<< HEAD
-=======
 	
->>>>>>> 5cda1e98ef15e0519c4fb7531de749bb0f5cc750
-	
-			
 	static int getPort() {
 		if (System.getenv("PORT") != null) {
 		return Integer.parseInt(System.getenv("PORT"));

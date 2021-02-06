@@ -1,4 +1,3 @@
-
 # *AREP - Laboratorio 2*
 # INTRODUCTION TO COMPUTER SYSTEM DESIGN
 
