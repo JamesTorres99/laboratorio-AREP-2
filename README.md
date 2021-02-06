@@ -8,15 +8,6 @@
 
 ## Use Maven, HEROKU, GIT, Spark and GITHUB.
 
-# *AREP - Laboratorio 1*
-# INTRODUCTION TO COMPLEX SYSTEMS, JAVA, MVN, AND GIT
-
-## Integrantes:
-
-- James Torres
-
-## Use Maven and GITHUB.
-
 Escriba un programa para calcular la desviación estándar y media de un conjunto de n números reales.
 Su programa lee los n números reales de un archivo.
 
