@@ -70,7 +70,7 @@ mvn package
 
 **Ejecutar el proyecto con maven**
 ```
-mvn exec:java -D "exec.mainClass"="edu.escuelaing.Arep.main"
+mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.main"
 ```
 ![](resources/4.PNG)
 <br></br>
